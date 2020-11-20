@@ -1,1 +1,2 @@
-# memoryDog1
+# hello-world
+Hello world new project template.
